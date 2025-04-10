@@ -52,14 +52,11 @@ It simulates a realistic agent pipeline, making it ideal for:
 
 ```bash
 pip install matplotlib numpy
+
 Run the simulation
-
-bash
-Copy
-Edit
 python mcp_sim.py
-Controls inside the animation
 
+Controls inside the animation
 ⏸ Pause / ▶ Play / 🔁 Reset
 🐢 0.5x / 🚀 1x / ⚡️ 2x speed options
 
